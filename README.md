@@ -1,4 +1,5 @@
-   ![foto](https://user-images.githubusercontent.com/113071685/189011364-eda8e6f2-02fc-4ca8-a2bf-de46ac972933.gif)
+   ![450_1000](https://user-images.githubusercontent.com/113071685/194728857-ba9c78d4-dc01-4ce7-a179-dec50111aeca.jpg)
+
 
 COBOL...y algunas especias.
 
