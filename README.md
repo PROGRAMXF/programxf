@@ -1,4 +1,5 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![imagen](https://user-images.githubusercontent.com/113071685/202931188-3d91e9bd-5355-48e2-b3eb-421df0f0d152.jpeg)
+
 <h1 align="center">Hi 👋, I'm Fernando Herrera</h1>
 <h3 align="center">Programador - Desarrollador</h3>
 
