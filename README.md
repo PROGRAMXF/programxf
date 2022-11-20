@@ -1,4 +1,4 @@
- Hello! my name is Fernando Herrera connect with me ![640px-Linkedin_icon svg](https://user-images.githubusercontent.com/113071685/202928661-31e7901b-f76e-4c1d-b2ff-da72cdbda16b.png)
+ Hello! my name is Fernando Herrera connect with me  ![640px-Linkedin_icon svg](https://user-images.githubusercontent.com/113071685/202928661-31e7901b-f76e-4c1d-b2ff-da72cdbda16b.png)
 
 
 
