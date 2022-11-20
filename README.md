@@ -1,4 +1,5 @@
-![imagen](https://user-images.githubusercontent.com/113071685/202931188-3d91e9bd-5355-48e2-b3eb-421df0f0d152.jpeg)
+![imagen](https://user-images.githubusercontent.com/113071685/202931327-bd7b8547-bee8-4ca1-a9f0-0fd8e96af910.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Fernando Herrera</h1>
 <h3 align="center">Programador - Desarrollador</h3>
