@@ -1,14 +1,8 @@
 ![imagen](https://user-images.githubusercontent.com/113071685/202931327-bd7b8547-bee8-4ca1-a9f0-0fd8e96af910.jpg)
 
-
 <h1 align="center">Hi 👋, I'm Fernando Herrera</h1>
 <h3 align="center">Programador - Desarrollador</h3>
 
-
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
-
-- ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
